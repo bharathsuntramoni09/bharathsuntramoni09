@@ -64,13 +64,7 @@
 
 ---
 
-## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath9542530187&theme=onedark" />
-</p>
-
----
 
 ## 🔗 Connect With Me  
 
