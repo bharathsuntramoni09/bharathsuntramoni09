@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me  
+##  🧑‍🎓About Me  
 - 💻 Passionate about building data pipelines on AWS  
 - ☁️ Skilled in transforming raw data into meaningful insights  
 - 🔥 Focused on becoming a Data Engineer  
